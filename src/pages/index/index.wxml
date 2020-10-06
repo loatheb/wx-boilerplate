@@ -10,6 +10,6 @@
     <template is="motto" data="{{motto:motto}}" />
   </view>
   <view class="powered">
-    <text>{{powered.by}}</text>
+    <text>123123123</text>
   </view>
 </view>
